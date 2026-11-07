@@ -1,1 +1,1 @@
-__APP__
+PLACEHOLDER
