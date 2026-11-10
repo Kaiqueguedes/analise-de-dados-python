@@ -1,4 +1,4 @@
-# Números que Falam — Descobrindo o Brasil
+
 
 Dashboard de indicadores do mercado de trabalho brasileiro construído com dados públicos do IBGE (PNAD Contínua Trimestral), com estatística descritiva em Python.
 
